@@ -11,7 +11,9 @@
 * Callback queue    (回調佇列)
 * WebAPIs           (DOM、ajax、setTimeout)
 ```
- 
- ![](https://i.imgur.com/8gKhy7d.png)
+## 小筆記
+
+ Stack: 後進先出 (先進後出) First In Last Out (FILO)堆疊
+
 
  ![](https://i.imgur.com/f8sk11z.jpg)
