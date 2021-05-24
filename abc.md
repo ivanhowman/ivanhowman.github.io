@@ -4,4 +4,4 @@
 JavaScript是擁有那些功能?
 
     - [x] Call stack (呼叫堆疊)
-- [x] This is a complete item
+- [x] Earth (Orbit/Moon)
