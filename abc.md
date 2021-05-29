@@ -13,6 +13,7 @@
 ```
 ## 小筆記
 ```
+- taskqueue:有分層級優先順序 
 - Stack: 後進先出 (先進後出) First In Last Out (FILO)堆疊。
 - JaveScript Runtime 一次只能做一件事。
 - 作者將JaveScript Runtime視覺化
