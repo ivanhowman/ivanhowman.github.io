@@ -27,10 +27,15 @@ https://www.toptal.com/developers/gitignore
 .gitignore 要放進 git 裡，讓專案裡的其他人同步
 
 例如:
+
 *.txt 表示忽略所有txt檔
+
 !lib.txt  !表示 除了lib.txt
+
 /temp 表示不包括temp文件夾
+
 build/  忽略build裡的文件
+
 doc/.*txt  忽略 doc/text.txt 但不包括 doc/server/text.txt
 
 ## npm
